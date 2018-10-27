@@ -1,4 +1,4 @@
-import pygame, time, random, pickle, os, pyttsx3                            #importing modules
+import pygame, time, random, pickle, os, pyttsx3                            #importing some modules
 
 class User:
     def __init__(self):
