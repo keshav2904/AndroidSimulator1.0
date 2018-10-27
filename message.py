@@ -1,4 +1,4 @@
-"""
+"""*
 required files. Install using pip
 
 * Requests
@@ -14,7 +14,7 @@ required files. Install using pip
  ```
 
 
-"""
+*"""
 import pygame, time
 
 pygame.init()
